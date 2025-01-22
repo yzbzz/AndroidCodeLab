@@ -1,4 +1,4 @@
-package com.android.code.ui.theme
+package com.android.codelab.ui.theme
 
 import android.app.Activity
 import android.os.Build
